@@ -1,0 +1,27 @@
+{
+  "id": "1731482611319",
+  "slug": "sample-hotel-555",
+  "images": [],
+  "rooms": [
+    {
+      "roomSlug": "standard-room",
+      "roomTitle": "Standard Room",
+      "roomImage": "standard-room.jpg",
+      "bedroomCount": 1
+    }
+  ],
+  "title": "Sample Hotel 555",
+  "description": "A cozy hotel for relaxation----",
+  "guestCount": 200,
+  "bedroomCount": 50,
+  "bathroomCount": 25,
+  "amenities": [
+    "Wi-Fi",
+    "Swimming Pool",
+    "Gym"
+  ],
+  "hostInformation": "Host: John Doe",
+  "address": "123 Main St, Springfield",
+  "latitude": 37.7749,
+  "longitude": -122.4194
+}

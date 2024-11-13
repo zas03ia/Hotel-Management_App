@@ -1,0 +1,31 @@
+{
+  "id": "1731482300035",
+  "slug": "updated-sample-hotel-444",
+  "images": [
+    "/images/image.jpg",
+    "/images/image2.jpg"
+  ],
+  "rooms": [
+    {
+      "roomSlug": "standard-room",
+      "roomTitle": "Updated Standard Room",
+      "roomImage": "standard-room-updated.jpg",
+      "bedroomCount": 1
+    }
+  ],
+  "title": "Updated Sample Hotel 444",
+  "description": "An updated description for relaxation----",
+  "guestCount": 120,
+  "bedroomCount": 55,
+  "bathroomCount": 30,
+  "amenities": [
+    "Wi-Fi",
+    "Swimming Pool",
+    "Gym",
+    "Spa"
+  ],
+  "hostInformation": "Host: John Doe Updated",
+  "address": "456 New St, Springfield",
+  "latitude": 37.7749,
+  "longitude": -122.4194
+}
